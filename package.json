@@ -1,0 +1,14 @@
+{
+  "name": "cantina-bot",
+  "version": "1.0.0",
+  "description": "games bot that plays pazaak and more",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "witag",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  }
+}
